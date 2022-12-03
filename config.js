@@ -3,7 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
+// • Allah 
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -58,23 +58,23 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/'
+global.pdana = '6282288502856' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '6282288502856' //telkomsel
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorown = '6282288502856'
+global.namebot = 'Alice Bot'
+global.nameown = 'Iky'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'RaaaGH' // nama github lu
-global.linkgithub = 'github.com/RaaaGH' // tarok link github lu
+global.namagithub = 'Rizkykokil' // nama github lu
+global.linkgithub = 'github.com/Rizkykokil' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
+  ['628228850856', 'Iky', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 Alice-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Alice-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Alice-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
-global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.packname = 'Alice-Botz WhatsApp'
+global.author = '                「 Alice-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Albedo-BOT'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'Alice-BOT'
+global.stickauth = `By ©Rizky`
 
 global.multiplier = 38 // The higher, The harder levelup
 
